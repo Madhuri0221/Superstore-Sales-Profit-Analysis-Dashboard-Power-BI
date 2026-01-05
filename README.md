@@ -23,4 +23,5 @@ Revealed regional and monthly variation in profitability to support targeted act
 Power BI (Power Query, Data Modelling, DAX)
 
 ## Dashboard Preview
-!(image_1.png)
+![Dashboard Overview](image_1.png)
+![Dashboard Overview](image_2.png)
