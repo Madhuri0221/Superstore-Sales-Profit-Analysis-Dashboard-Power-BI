@@ -14,3 +14,8 @@ Identified ~20% regional variation in performance and enabled drill-down based K
 
 ## Tools
 Power BI, DAX, Excel
+
+## Dashboard Preview
+![Dashboard Overview](image_1.png)
+![Dashboard Overview](image_2.png)
+
